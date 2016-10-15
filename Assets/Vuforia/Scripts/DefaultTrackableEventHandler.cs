@@ -17,6 +17,7 @@ namespace Vuforia
         #region PRIVATE_MEMBER_VARIABLES
  
         private TrackableBehaviour mTrackableBehaviour;
+		public GameObject[] obj;
     
         #endregion // PRIVATE_MEMBER_VARIABLES
 
@@ -51,11 +52,19 @@ namespace Vuforia
                 newStatus == TrackableBehaviour.Status.TRACKED ||
                 newStatus == TrackableBehaviour.Status.EXTENDED_TRACKED)
             {
-                OnTrackingFound();
+                for (int i = 0; i < obj.Length; i++)
+                {
+                    obj[i].SetActive(true);
+                    OnTrackingFound();
+                }
             }
             else
             {
-                OnTrackingLost();
+                for (int i = 0; i < obj.Length; i++)
+                {
+                    obj[i].SetActive(false);
+                    OnTrackingLost();
+                }
             }
         }
 

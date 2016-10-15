@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 31312e0960300784598cf2d68438b4c5
+timeCreated: 1476485175
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: lift_desk__1
+    100004: //RootNode
+    100006: Pe_Dir
+    100008: Pe_Esq
+    100010: Tampo
+    100012: Tampo_SUp
+    100014: Traseiro
+    400000: Camera
+    400002: lift_desk__1
+    400004: //RootNode
+    400006: Pe_Dir
+    400008: Pe_Esq
+    400010: Tampo
+    400012: Tampo_SUp
+    400014: Traseiro
+    2300000: Pe_Dir
+    2300002: Pe_Esq
+    2300004: Tampo
+    2300006: Tampo_SUp
+    2300008: Traseiro
+    3300000: Pe_Dir
+    3300002: Pe_Esq
+    3300004: Tampo
+    3300006: Tampo_SUp
+    3300008: Traseiro
+    4300000: Traseiro
+    4300002: Tampo_SUp
+    4300004: Tampo
+    4300006: Pe_Esq
+    4300008: Pe_Dir
+    7400000: Desmontada
+    7400002: Parte de tras
+    7400004: Laterais
+    7400006: Tampo superior
+    7400008: Tampo inferior
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Desmontada
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: lift_desk__1
+        weight: 1
+      - path: lift_desk__1/Pe_Dir
+        weight: 1
+      - path: lift_desk__1/Pe_Esq
+        weight: 1
+      - path: lift_desk__1/Tampo
+        weight: 1
+      - path: lift_desk__1/Tampo_SUp
+        weight: 1
+      - path: lift_desk__1/Traseiro
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parte de tras
+      takeName: C4D Animation Take
+      firstFrame: 0.1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: lift_desk__1
+        weight: 1
+      - path: lift_desk__1/Pe_Dir
+        weight: 1
+      - path: lift_desk__1/Pe_Esq
+        weight: 1
+      - path: lift_desk__1/Tampo
+        weight: 1
+      - path: lift_desk__1/Tampo_SUp
+        weight: 1
+      - path: lift_desk__1/Traseiro
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Laterais
+      takeName: C4D Animation Take
+      firstFrame: 30
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: lift_desk__1
+        weight: 1
+      - path: lift_desk__1/Pe_Dir
+        weight: 1
+      - path: lift_desk__1/Pe_Esq
+        weight: 1
+      - path: lift_desk__1/Tampo
+        weight: 1
+      - path: lift_desk__1/Tampo_SUp
+        weight: 1
+      - path: lift_desk__1/Traseiro
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tampo superior
+      takeName: C4D Animation Take
+      firstFrame: 53
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: lift_desk__1
+        weight: 1
+      - path: lift_desk__1/Pe_Dir
+        weight: 1
+      - path: lift_desk__1/Pe_Esq
+        weight: 1
+      - path: lift_desk__1/Tampo
+        weight: 1
+      - path: lift_desk__1/Tampo_SUp
+        weight: 1
+      - path: lift_desk__1/Traseiro
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tampo inferior
+      takeName: C4D Animation Take
+      firstFrame: 68
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: lift_desk__1
+        weight: 1
+      - path: lift_desk__1/Pe_Dir
+        weight: 1
+      - path: lift_desk__1/Pe_Esq
+        weight: 1
+      - path: lift_desk__1/Tampo
+        weight: 1
+      - path: lift_desk__1/Tampo_SUp
+        weight: 1
+      - path: lift_desk__1/Traseiro
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
